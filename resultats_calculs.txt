@@ -1,0 +1,174 @@
+=== 1. ETAT DES RESULTATS ===
+[2026] Croissance des ventes                                   13.1 %
+[2026] Marge brute                                             45.0 %
+[2026] Frais VGA / ventes                                      15.1 %
+[2026] BAIIA recalcule (res. exploit. + tous amort.) M$        2,397.9
+[2026] BAIIA publie par la societe M$                          2,408.2
+[2026] Marge BAIIA (publiee)                                   33.2 %
+[2026] Marge d'exploitation                                    26.7 %
+[2026] Marge nette                                             18.0 %
+[2026] Taux d'impot effectif                                   25.8 %
+[2026] Quote-part Dollarcity / resultat d'exploitation         9.9 %
+[2026] Croissance benefice net                                 12.1 %
+[2026] Croissance BPA dilue                                    13.7 %
+[2026] Variation du nb moyen d'actions diluees                 -1.5 %
+
+[2025] Croissance des ventes                                   9.3 %
+[2025] Marge brute                                             45.1 %
+[2025] Frais VGA / ventes                                      14.5 %
+[2025] BAIIA recalcule (res. exploit. + tous amort.) M$        2,121.8
+[2025] BAIIA publie par la societe M$                          2,121.8
+[2025] Marge BAIIA (publiee)                                   33.1 %
+[2025] Marge d'exploitation                                    26.7 %
+[2025] Marge nette                                             18.2 %
+[2025] Taux d'impot effectif                                   24.5 %
+[2025] Quote-part Dollarcity / resultat d'exploitation         7.6 %
+[2025] Croissance benefice net                                 15.6 %
+[2025] Croissance BPA dilue                                    16.9 %
+[2025] Variation du nb moyen d'actions diluees                 -1.2 %
+
+=== 2. FLUX DE TRESORERIE ===
+Pont benefice net -> flux d'exploitation 2026 (M$) :
+   benef_net              1,309.4
+   amort_total              460.0
+   remu_actions              16.0
+   frais_fin                184.0
+   impots_diff               -8.8
+   gain_non_realise         -10.3
+   quote_part_mev          -191.5
+   interets_recus            25.6
+   autres                    32.7
+   var_bfr                  -55.9
+   = FTE (verif.)         1,761.2  (publie : 1,761.2)
+Detail variation BFR 2026 (M$) : clients -0.3, frais_payes -21.9, stocks -54.3, fournisseurs 37.9, impots -17.3
+[2026] Flux d'exploitation (FTE) M$                            1,761.2
+[2026] Conversion FTE / benefice net                           1.34x
+[2026] FTE apres TOUS les interets payes M$                    1,547.6
+[2026] Conversion (FTE apres interets) / benefice net          1.18x
+[2026] Capex (immo + incorporels) M$                           272.8
+[2026] Capex / ventes                                          3.8 %
+[2026] Capex / amortissement total                             0.59x
+[2026] FCF simple (FTE - capex) M$                             1,488.4
+[2026] Paiements de baux (capital + interets) M$               390.3
+[2026]   dont interets sur baux M$                             99.1
+[2026] Interets payes sur la dette M$                          114.5
+[2026] FCF ajuste (- baux - interets dette) M$                 983.5
+[2026] FCF ajuste / benefice net                               0.75x
+[2026] FCF ajuste / ventes                                     13.6 %
+[2026] Dividendes + rachats M$                                 977.6
+[2026] (Dividendes + rachats) / FCF ajuste                     99.4 %
+[2026] Ratio de distribution des dividendes (div / BN)         8.6 %
+
+[2025] Flux d'exploitation (FTE) M$                            1,644.1
+[2025] Conversion FTE / benefice net                           1.41x
+[2025] FTE apres TOUS les interets payes M$                    1,448.9
+[2025] Conversion (FTE apres interets) / benefice net          1.24x
+[2025] Capex (immo + incorporels) M$                           243.4
+[2025] Capex / ventes                                          3.8 %
+[2025] Capex / amortissement total                             0.59x
+[2025] FCF simple (FTE - capex) M$                             1,400.7
+[2025] Paiements de baux (capital + interets) M$               317.8
+[2025]   dont interets sur baux M$                             86.7
+[2025] Interets payes sur la dette M$                          108.5
+[2025] FCF ajuste (- baux - interets dette) M$                 974.4
+[2025] FCF ajuste / benefice net                               0.83x
+[2025] FCF ajuste / ventes                                     15.2 %
+[2025] Dividendes + rachats M$                                 1,188.0
+[2025] (Dividendes + rachats) / FCF ajuste                     121.9 %
+[2025] Ratio de distribution des dividendes (div / BN)         8.3 %
+
+[2026] Ratio d'accruals de Sloan (BN - FTE) / actif moyen      -6.4 %
+[2026] Quote-part Dollarcity (comptable) M$                    191.5
+[2026] Distributions recues de Dollarcity (cash) M$            106.6
+[2026] Pont encaisse : 122,7 + variation = fin                 331.6
+
+=== 3. BILAN : FONDS DE ROULEMENT ===
+[2026] Jours de stocks DIO (stock moyen / cout des ventes x 365) 93 j
+[2026] Jours de stocks DIO (stock de fin)                      101 j
+[2026] Rotation des stocks (cout des ventes / stock moyen)     3.9x
+[2026] Jours de comptes clients DSO                            2.1 j
+[2026] Jours fournisseurs DPO (inclut charges a payer)         37 j
+[2026] Cycle de conversion de tresorerie (DIO + DSO - DPO)     57 j
+[2026] Hausse des stocks au bilan                              19.8 %
+[2026] Hausse des stocks hors The Reject Shop M$               54.3
+[2026] Hausse des stocks hors The Reject Shop (%)              5.9 %
+[2026] Croissance des ventes (rappel)                          13.1 %
+[2026] DIO fin d'annee, cout des ventes Australie annualise (approx.) 95 j
+[2025] Jours de stocks DIO (stock moyen / cout des ventes x 365) 95 j
+[2025] Jours de stocks DIO (stock de fin)                      96 j
+[2025] Rotation des stocks (cout des ventes / stock moyen)     3.8x
+
+=== 4. BILAN : LIQUIDITE, DETTE, BAUX ===
+[2026] Ratio de liquidite generale (actif CT / passif CT)      1.13
+[2026] Ratio de liquidite immediate ((encaisse+clients)/passif CT) 0.27
+[2026] Dette totale M$                                         2,625.1
+[2026] Dette nette M$                                          2,293.6
+[2026] Obligations locatives M$                                2,770.5
+[2026] Dette nette / BAIIA (sans baux, BAIIA IFRS 16 : a eviter) 0.95x
+[2026] BAIIA apres loyers (BAIIA - paiements de baux) M$       2,017.9
+[2026] Dette nette / BAIIA apres loyers (coherent)             1.14x
+[2026] (Dette nette + baux) / BAIIA IFRS 16 (coherent)         2.10x
+[2026] Couverture des interets : res. exploit. / frais fin. nets 10.5x
+[2026] Couverture : (res. exploit. - quote-part Dollarcity) / frais fin. bruts 8.3x
+[2026] Dette totale / capitaux propres                         1.80x
+[2026] (Dette + baux) / capitaux propres                       3.71x
+[2026] Goodwill / capitaux propres                             55.1 %
+[2026] Goodwill / actif total                                  10.6 %
+[2026] Capitaux propres tangibles (CP - goodwill - incorporels) M$ 475.9
+[2026] Droits d'utilisation / actif total                      31.7 %
+
+[2025] Ratio de liquidite generale (actif CT / passif CT)      1.18
+[2025] Ratio de liquidite immediate ((encaisse+clients)/passif CT) 0.17
+[2025] Dette totale M$                                         2,282.7
+[2025] Dette nette M$                                          2,160.0
+[2025] Obligations locatives M$                                2,427.0
+[2025] Dette nette / BAIIA (sans baux, BAIIA IFRS 16 : a eviter) 1.02x
+[2025] BAIIA apres loyers (BAIIA - paiements de baux) M$       1,804.0
+[2025] Dette nette / BAIIA apres loyers (coherent)             1.20x
+[2025] (Dette nette + baux) / BAIIA IFRS 16 (coherent)         2.16x
+[2025] Couverture des interets : res. exploit. / frais fin. nets 10.4x
+[2025] Couverture : (res. exploit. - quote-part Dollarcity) / frais fin. bruts 8.2x
+[2025] Dette totale / capitaux propres                         1.92x
+[2025] (Dette + baux) / capitaux propres                       3.96x
+[2025] Goodwill / capitaux propres                             61.2 %
+[2025] Goodwill / actif total                                  11.2 %
+[2025] Capitaux propres tangibles (CP - goodwill - incorporels) M$ 279.8
+[2025] Droits d'utilisation / actif total                      32.5 %
+
+=== 5. RENTABILITE, ROE ET RACHATS ===
+[2026] ROE (BN / CP moyens)                                    99.0 %
+[2026] ROA (BN / actif moyen)                                  18.7 %
+[2026] DuPont : marge nette                                    18.0 %
+[2026] DuPont : rotation de l'actif (ventes / actif moyen)     1.03x
+[2026] DuPont : levier (actif moyen / CP moyens)               5.31x
+[2026] ROIC approx. (res. exploit. x (1-t) / capital investi fin) 22.1 %
+[2026] ROE illustratif si on rajoutait la prime des rachats depuis 2012 13.8 %
+[2026] Actions en circulation fin d'annee : variation          -1.5 %
+[2026] Prix moyen paye par action rachetee                     192.09 $
+[2026] Capitalisation boursiere approx. (cours ~195 $) M$      53,221
+[2026] Ratio cours / valeur comptable approx.                  37x
+[2026] Remuneration en actions / ventes                        0.2 %
+[2026] Ecart actions diluees vs de base                        0.4 %
+
+=== 6. PIOTROSKI F-SCORE 2026 (vs 2025) ===
+   1. Benefice net > 0                                         1  (1,309 M$)
+   2. FTE > 0                                                  1  (1,761 M$)
+   3. ROA en hausse                                            0  (20.2 % vs 22.2 %)
+   4. FTE > benefice net (accruals)                            1  (1 761 vs 1 309)
+   5. Dette LT / actif en baisse                               1  (31.7 % vs 34.2 %)
+   6. Ratio de liquidite en hausse                             0  (1.13 vs 1.18)
+   7. Pas d'emission nette d'actions                           1  (-1,5 % d'actions)
+   8. Marge brute en hausse                                    0  (45.0 % vs 45.1 %)
+   9. Rotation de l'actif en hausse                            0  (1.119 vs 1.218)
+   F-Score                                                     5 / 9
+
+=== 7. ALTMAN Z-SCORE 2026 ===
+   X1 fonds de roulement / actif                               0.023
+   X2 benefices non repartis / actif                           0.017
+   X3 BAII / actif                                             0.256
+   X4 cap. boursiere / passif total                            8.72
+   X4'' valeur comptable CP / passif total                     0.239
+   X5 ventes / actif                                           0.960
+   Z original (1968, manufacturieres cotees)                   7.09  (>2,99 sur ; <1,81 detresse)
+   Z'' (non manufacturieres, valeur comptable)                 2.18  (>2,60 sur ; <1,10 detresse)
+   Part de X4 (cap. boursiere) dans le Z original              73.8 %

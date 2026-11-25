@@ -1,0 +1,105 @@
+{
+  "entreprises": {
+    "AAPL": {
+      "cik": 320193,
+      "derniere_accession": "0000320193-26-000026",
+      "date_depot": "2026-11-03"
+    },
+    "MSFT": {
+      "cik": 789019,
+      "derniere_accession": "0001193125-26-436133",
+      "date_depot": "2026-10-28"
+    },
+    "COST": {
+      "cik": 909832,
+      "derniere_accession": "0000909832-26-000093",
+      "date_depot": "2026-10-07"
+    },
+    "NVDA": {
+      "cik": 1045810,
+      "derniere_accession": "0001045810-26-000075",
+      "date_depot": "2026-08-26"
+    },
+    "GOOGL": {
+      "cik": 1652044,
+      "derniere_accession": "0001652044-26-000084",
+      "date_depot": "2026-10-29"
+    },
+    "AMZN": {
+      "cik": 1018724,
+      "derniere_accession": "0001018724-26-000040",
+      "date_depot": "2026-10-30"
+    },
+    "AVGO": {
+      "cik": 1730168,
+      "derniere_accession": "0001730168-26-000080",
+      "date_depot": "2026-09-10"
+    },
+    "META": {
+      "cik": 1326801,
+      "derniere_accession": "0001628280-26-066773",
+      "date_depot": "2026-10-22"
+    },
+    "TSLA": {
+      "cik": 1318605,
+      "derniere_accession": "0001628280-26-066775",
+      "date_depot": "2026-10-22"
+    },
+    "LLY": {
+      "cik": 59478,
+      "derniere_accession": "0000059478-26-000108",
+      "date_depot": "2026-10-29"
+    },
+    "BRK-B": {
+      "cik": 1067983,
+      "derniere_accession": "0001193125-26-452412",
+      "date_depot": "2026-11-09"
+    },
+    "WMT": {
+      "cik": 104169,
+      "derniere_accession": "0000104169-26-000154",
+      "date_depot": "2026-08-28"
+    },
+    "JPM": {
+      "cik": 19617,
+      "derniere_accession": "0001628280-26-069523",
+      "date_depot": "2026-11-03"
+    },
+    "AMD": {
+      "cik": 2488,
+      "derniere_accession": "0000002488-26-000191",
+      "date_depot": "2026-11-04"
+    },
+    "MU": {
+      "cik": 723125,
+      "derniere_accession": "0000723125-26-000023",
+      "date_depot": "2026-10-09"
+    },
+    "V": {
+      "cik": 1403161,
+      "derniere_accession": "0001403161-26-000134",
+      "date_depot": "2026-11-05"
+    },
+    "XOM": {
+      "cik": 2115436,
+      "derniere_accession": "0002115436-26-000020",
+      "date_depot": "2026-11-02"
+    },
+    "JNJ": {
+      "cik": 200406,
+      "derniere_accession": "0000200406-26-000197",
+      "date_depot": "2026-10-21"
+    },
+    "MA": {
+      "cik": 1141391,
+      "derniere_accession": "0001141391-26-000124",
+      "date_depot": "2026-10-29"
+    },
+    "ABBV": {
+      "cik": 1551152,
+      "derniere_accession": "0001551152-26-000037",
+      "date_depot": "2026-11-03"
+    }
+  },
+  "journal": []
+}

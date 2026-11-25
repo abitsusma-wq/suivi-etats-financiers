@@ -1,0 +1,54 @@
+# Configuration du suivi des états financiers
+# ------------------------------------------------------------
+# Modifie ce fichier pour ajouter ou retirer des entreprises.
+# Après une modification, relance :  python -m suivi --force
+
+# Entreprises suivies (tickers américains, déposants à la SEC).
+# Tu peux préciser le CIK si le ticker n'est pas reconnu, ex. :
+#   - ticker: BRK-B
+#     cik: 1067983
+#
+# 20 plus grandes capitalisations du S&P 500 (cours de clôture du 19 nov. 2026).
+# Alphabet n'apparaît qu'une fois : GOOGL et GOOG ont le même CIK.
+entreprises:
+  - ticker: AAPL    # Apple
+  - ticker: MSFT    # Microsoft
+  - ticker: NVDA    # NVIDIA
+  - ticker: GOOGL   # Alphabet
+  - ticker: AMZN    # Amazon
+  - ticker: AVGO    # Broadcom
+  - ticker: META    # Meta Platforms
+  - ticker: TSLA    # Tesla
+  - ticker: LLY     # Eli Lilly
+  - ticker: BRK-B   # Berkshire Hathaway
+    cik: 1067983
+  - ticker: WMT     # Walmart
+  - ticker: JPM     # JPMorgan Chase
+  - ticker: AMD     # Advanced Micro Devices
+  - ticker: MU      # Micron Technology
+  - ticker: V       # Visa
+  # Exxon a changé de déposant en 2026 : XOM pointe vers ExxonMobil Holdings
+  # (CIK 2115436), qui n'a que les dépôts depuis le T2 2026. L'historique
+  # (jusqu'au T2 2026) est sous l'ancien CIK 34088 ; le prochain 10-K du
+  # nouveau CIK comblera les exercices annuels.
+  - ticker: XOM     # Exxon Mobil
+  - ticker: JNJ     # Johnson & Johnson
+  - ticker: MA      # Mastercard
+  - ticker: ABBV    # AbbVie
+  - ticker: COST    # Costco
+
+# La SEC exige un User-Agent qui identifie le client, au format
+# "NomDuClient contact@domaine.com". La valeur ci-dessous est générique.
+# La SEC demande en principe un vrai contact : tu peux y mettre ton
+# courriel si tu le souhaites (il n'est envoyé qu'à la SEC).
+user_agent: "SuiviEtatsFinanciers contact@example.com"
+
+# Nombre de périodes à afficher dans le classeur
+annees: 10        # exercices annuels (10-K)
+trimestres: 12    # trimestres (10-Q, et T4 déduit du 10-K)
+
+# Unité d'affichage des montants : 1 = dollars, 1000 = milliers, 1000000 = millions
+unite: 1000000
+
+# Fichier Excel de référence (chemin relatif au dossier du projet)
+fichier_excel: sortie/etats_financiers.xlsx
